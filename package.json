@@ -1,0 +1,19 @@
+{
+  "name": "web5-quickstarter-app",
+  "version": "1.0.0",
+  "description": "Getting up and running with web5 ([TBD](https://github.com/TBD54566975))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web5/api": "^0.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  }
+}
