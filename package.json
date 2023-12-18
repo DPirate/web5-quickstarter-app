@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Getting up and running with web5 ([TBD](https://github.com/TBD54566975))",
   "main": "dist/app.js",
+  "type": "module",
   "scripts": {
     "start": "tsc && node dist/app.js",
     "lint": "eslint . --ext .ts",
